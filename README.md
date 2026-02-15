@@ -3,7 +3,7 @@
 > A modern, responsive landing page specifically designed for a gaming community platform. This project simulates a real-world client brief to build a pixel-perfect interface using **Bootstrap**.
 
 ## Live Demo
-[View Live Demo](INSERT_YOUR_DEPLOYMENT_LINK_HERE)
+[View Live Demo](https://games-arena-rose.vercel.app/)
 
 ## Screenshots
 <img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/5fa6a15e-b94d-4f0a-817d-24a58e7542a0" />
